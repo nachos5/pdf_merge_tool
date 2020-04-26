@@ -26,5 +26,5 @@ optional arguments:
 
 Examples:
 
-* python pdfmerge.py -d _your_pdf_directory_path
+* python pdfmerge.py -d _your_pdf_directory_path_
 * python pdfmerge.py -l file1.pdf file2.pdf file3.pdf -o _your_output_folder_
